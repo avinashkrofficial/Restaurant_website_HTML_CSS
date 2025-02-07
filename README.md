@@ -8,7 +8,6 @@
 5. [Installation & Usage](#-installation--usage)
 6. [Future Enhancements](#-future-enhancements)
 7. [Contributing](#-contributing)
-8. [License](#-license)
 
 ---
 
@@ -65,9 +64,6 @@ Contributions are welcome! If you want to improve this project:
 4. Submit a pull request.
 
 ---
-
-## 📜 License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 🍽️ *A stylish and responsive restaurant website to enhance your online presence!* 🍽️
 
