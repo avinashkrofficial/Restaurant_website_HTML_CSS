@@ -4,10 +4,9 @@
 1. [Introduction](#-introduction)
 2. [Features](#-features)
 3. [Technologies Used](#-technologies-used)
-4. [Screenshots](#-screenshots)
-5. [Installation & Usage](#-installation--usage)
-6. [Future Enhancements](#-future-enhancements)
-7. [Contributing](#-contributing)
+4. [Installation & Usage](#-installation--usage)
+5. [Future Enhancements](#-future-enhancements)
+6. [Contributing](#-contributing)
 
 ---
 
@@ -29,11 +28,6 @@ This is a **Restaurant Website** designed using **HTML and CSS**. It provides an
 ## 🛠️ Technologies Used
 - **HTML**: Structure of the web pages.
 - **CSS**: Styling and layout design.
-
----
-
-## 📸 Screenshots
-*(Include screenshots here if available to showcase the UI.)*
 
 ---
 
