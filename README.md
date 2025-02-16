@@ -59,5 +59,5 @@ Contributions are welcome! If you want to improve this project:
 
 ---
 
-🍽️ *A stylish and responsive restaurant website to enhance your online presence!* 🍽️
+🍽️ *A stylish and responsive restaurant website to enhance your online presence!* 
 
